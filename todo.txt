@@ -1,0 +1,25 @@
+Gallery
+
+TODO:
+
+- make it deploy (via vercel)? 
+
+- scaffold basic ui with mock data
+
+- set up db (via vercel postgres)
+
+- attach db to ui 
+
+- add auth (via clerk)
+
+- add image upload 
+
+- error management (via sentry)
+
+- Routing an imagedetail page on image click
+
+- delete button 
+
+- analytics via posthog
+
+- ratelimiting via upstash
