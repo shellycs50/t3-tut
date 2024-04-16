@@ -2,9 +2,9 @@ Gallery
 
 TODO:
 
-- make it deploy (via vercel)? 
+- make it deploy (via vercel)? x
 
-- scaffold basic ui with mock data
+- scaffold basic ui with mock data x
 
 - set up db (via vercel postgres)
 
